@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AlexandraPASTOR.github.io/Project-CDA-Front/",
+  "homepage": "https://alexandrapastor.github.io/Project-CDA-Front/",
   "scripts": {
     "start": "vite",
     "dev": "vite",
